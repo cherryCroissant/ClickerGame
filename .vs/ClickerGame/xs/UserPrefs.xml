@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F709D9DF-3902-2735-7F62-7ACB9FC87D3D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/AutoWork.cs" Line="25" Column="6" />
+      <File FileName="Assets/GameManager.cs" Line="86" Column="25" />
+      <File FileName="Assets/MoneyMove.cs" Line="31" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClickerGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7dbe471c-a683-4caf-b7a8-c747d05d0480" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
